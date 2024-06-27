@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/ghost_boy.js" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.instagram.com/ghost_boy.js?igsh=b3dmdW0xZjIyc3Fo" target="_blank">
+  <a href="https://medium.com/@s.rodriguezzapata01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://stackoverflow.com/users/11771422/sebastian-rodriguez-zapata" target="_blank">
