@@ -61,7 +61,7 @@
   <a href="https://stackoverflow.com/users/11771422/sebastian-rodriguez-zapata" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/11771422/sebastian-rodriguez-zapata" target="_blank">
+  <a href="https://x.com/s_o_rodriguez_z" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
