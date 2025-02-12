@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋! Mi nombre es Sebastián</h1>
+<h1 align="center">Hello 👋! My name is Sebastián.</h1>
 
 ###
 
-<p align="left">Soy un desarrollador de software apasionado y en constante crecimiento profesional. Me dedico al desarrollo de aplicaciones innovadoras y siempre estoy en la búsqueda de aprender nuevas tecnologías y metodologías para mejorar mis habilidades.</p>
+<p align="left">I am a passionate software developer with a constant professional growth. I dedicate myself to developing innovative applications and am always in search of learning new technologies and methodologies to improve my skills.</p>
 
 ###
 
